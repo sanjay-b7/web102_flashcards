@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "answer": "Pacific Ocean",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "Nile River",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country has the largest landmass?",
+    "answer": "Russia",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the highest mountain above sea level?",
+    "answer": "Mount Everest",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What continent is directly south of Europe?",
+    "answer": "Africa",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the smallest country in the world by land area?",
+    "answer": "Vatican City",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest hot desert in the world, covering much of North Africa?",
+    "answer": "Sahara Desert",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which river flows through the center of London?",
+    "answer": "River Thames",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which U.S. state is closest to Russia?",
+    "answer": "Alaska",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What mountain range is traditionally considered the border between Europe and Asia?",
+    "answer": "Ural Mountains",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the only continent to have land in all four hemispheres?",
+    "answer": "Africa",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital city of Canada?",
+    "answer": "Ottawa",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the longest continental mountain range in the world?",
+    "answer": "The Andes",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which hypersaline lake is located between Jordan and Israel?",
+    "answer": "Dead Sea",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country currently has the largest population in the world?",
+    "answer": "India",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which island country is located directly southeast of India?",
+    "answer": "Sri Lanka",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest desert in the world by total area (including cold deserts)?",
+    "answer": "Antarctic Desert",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which narrow strait connects the Atlantic Ocean to the Mediterranean Sea?",
+    "answer": "Strait of Gibraltar",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which country is comprised of the most islands?",
+    "answer": "Sweden",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the administrative capital of South Africa?",
+    "answer": "Pretoria",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which large lake is situated on the border of Peru and Bolivia?",
+    "answer": "Lake Titicaca",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which river carved the Grand Canyon in the United States?",
+    "answer": "Colorado River",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the deepest known point in the Earth's oceans?",
+    "answer": "Mariana Trench",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which European country has the longest coastline?",
+    "answer": "Norway",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country shares the longest international border with the United States?",
+    "answer": "Canada",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which African country was formerly known as Abyssinia?",
+    "answer": "Ethiopia",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "answer": "Wellington",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which African country is entirely landlocked within the borders of South Africa?",
+    "answer": "Lesotho",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the largest island in the world (that is not a continent)?",
+    "answer": "Greenland",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "answer": "Reykjavik",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which river flows through Paris, France?",
+    "answer": "Seine River",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In which Middle Eastern country is the ancient city of Petra located?",
+    "answer": "Jordan",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which sea lies between mainland China and the Korean Peninsula?",
+    "answer": "Yellow Sea",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "answer": "Ankara",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the highest uninterrupted waterfall in the world?",
+    "answer": "Angel Falls",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which mountain range is home to Mount Everest?",
+    "answer": "Himalayas",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Name one of the two South American countries that do not share a border with Brazil.",
+    "answer": "Chile (or Ecuador)",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which is the smallest ocean in the world?",
+    "answer": "Arctic Ocean",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "To which island group do Ibiza and Mallorca belong?",
+    "answer": "Balearic Islands",
+    "image": "",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which African nation is home to Mount Kilimanjaro?",
+    "answer": "Tanzania",
+    "image": "",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What body of water separates the United Kingdom from France?",
+    "answer": "English Channel",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which country is also recognized as a continent?",
+    "answer": "Australia",
+    "image": "",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital of Kazakhstan?",
+    "answer": "Astana",
+    "image": "",
+    "difficulty": "hard"
+  }
+]
