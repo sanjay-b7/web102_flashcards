@@ -9,6 +9,19 @@ function App() {
 
   const deckSize = questionBankData.length
 
+  const [currentIndex, setCurrentIndex] = useState(0)
+
+  const onNext = () => {
+    setCurrentIndex(Math.floor(Math.random() * 49.9))
+    setIsQuestion(true)
+  }
+
+  const [isQuestion, setIsQuestion] = useState(true)
+
+  const flipCard = () => {
+      setIsQuestion(prev => !prev)
+  }
+
 
   return (
     <div className="App">
@@ -17,10 +30,10 @@ function App() {
         <h3>Do you know your geography? Test ur skills here!</h3>
         <p>Number of cards: {deckSize}</p>
       </div>
-      <Flashcard />
+      <Flashcard card={questionBankData[currentIndex]} flipFunction={flipCard} isQuestion={isQuestion}/>
       <div className="button-container">
-        <button><HiArrowLeft size={30}/></button>
-        <button><HiArrowRight size={30}/></button>
+        <button onClick={onNext}><HiArrowLeft size={30}/></button>
+        <button onClick={onNext}><HiArrowRight size={30}/></button>
       </div>
     </div>
   )

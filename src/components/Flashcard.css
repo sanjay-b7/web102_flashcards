@@ -16,6 +16,8 @@
     border-radius: 16px;
     box-shadow: 0 16px 40px rgba(0, 0, 0, 0.15);
     cursor: pointer;
+    user-select: none;
+    min-height: 300px
 }
 .flashcard-contents {
     text-align: center;
