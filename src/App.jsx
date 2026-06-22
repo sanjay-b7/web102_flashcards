@@ -1,12 +1,27 @@
 import { useState } from 'react'
 import Flashcard from './components/Flashcard'
+import { HiArrowLeft } from "react-icons/hi";
+import { HiArrowRight } from "react-icons/hi";
+import questionBankData from "./assets/questionBank.json"
 import './App.css'
 
 function App() {
 
+  const deckSize = questionBankData.length
+
+
   return (
     <div className="App">
-      <Flashcard/>
+      <div className="header">
+        <h1>Geography Flashcards!</h1>
+        <h3>Do you know your geography? Test ur skills here!</h3>
+        <p>Number of cards: {deckSize}</p>
+      </div>
+      <Flashcard />
+      <div className="button-container">
+        <button><HiArrowLeft size={30}/></button>
+        <button><HiArrowRight size={30}/></button>
+      </div>
     </div>
   )
 }
