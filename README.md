@@ -1,8 +1,8 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Geography Flashcards*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sanjay Bharathi**
 
-This web app: **insert description**
+This web app: **Offers 50 trivia questions to test your geography knowledge**
 
 Time spent: **5** hours spent in total
 
